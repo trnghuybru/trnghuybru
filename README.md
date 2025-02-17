@@ -31,3 +31,13 @@ My name is Huy, but you can call me Bruno. I am a third-year student at VKU, pas
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trnghuybru&repo=FinalBWD&theme=onedark" />
 </a>    
+
+<a href="https://github.com/trnghuybru/RMI_Server/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trnghuybru&repo=RMI_Server&theme=radical" />
+</a>    
+<a href="https://github.com/trnghuybru/BWD2024/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bobaonhan123&repo=BWD2024&theme=merko" />
+</a>
+
