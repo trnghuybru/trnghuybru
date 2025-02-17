@@ -1,5 +1,7 @@
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Huy, but you can call me Bruno. I am a third-year student at VKU, passionate about web development, mobile development, and data analysis. Additionally, I have a strong interest in Japan and its culture. I have obtained the N4 certificate and am currently working towards passing the N3 exam in July 2025
+
+私はフイ、ブリュノと呼んでください。VKUの3年生で、ウェブ開発、モバイル開発、データ分析に興味があります。日本とその文化も好きです。N4資格を取得し、2025年7月のN3合格を目指しています。
 <br>
 ## 📫 How to reach me: 
 
