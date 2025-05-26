@@ -1,7 +1,24 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Huy, but you can call me Bruno. I am a third-year student at VKU, passionate about web development, mobile development, and data analysis. Additionally, I have a strong interest in Japan and its culture. I have obtained the N4 certificate and am currently working towards passing the N3 exam in July 2025
+My name is Huy, but you can call me Bruno. I am a third-year student at VKU, passionate about web development, mobile development, and data analysis. Additionally, I have a strong interest in Japan and its culture. I have obtained the N4 certificate and am currently working towards passing the N3 exam in July 2025.
+
+**My Highlights:**
+GPA: 3.81 (as of now)
+- Participated in the Hanwha Life x ChildFund Korea Fintech Excellence Student Exchange Program in South Korea
+- Awarded the GO JAPAN 2025 Scholarship, Type A, by FPT Japan Holding (12 recipients nationwide)
+- Received Excellent Academic Scholarships for 5 consecutive semesters
+- First Prize in VKU Super Best Web Design 2024
+- Winner of VKU Best Web Design Hackathon 2023
+- Third Prize in English Talent Competition 2023
 
 私はフイ、ブリュノと呼んでください。VKUの3年生で、ウェブ開発、モバイル開発、データ分析に興味があります。日本とその文化も好きです。N4資格を取得し、2025年7月のN3合格を目指しています。
+**私のハイライト:**
+GPA：3.81（現在までの成績）
+- 韓国のHanwha Life x ChildFund Korea Fintech Excellence学生交換プログラムに参加
+- FPT Japan HoldingによるGO JAPAN 2025奨学金Aタイプ（全国12名）を受賞
+- 5学期連続で優秀成績奨学金を取得
+- VKU Super Best Web Design 2024で最優秀賞を受賞
+- VKU Best Web Design ハッカソン2023で優勝
+- 2023年英語タレントコンペティションで3位を受賞
 <br>
 ## 📫 How to reach me: 
 
