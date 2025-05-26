@@ -21,7 +21,9 @@ My name is Huy, but you can call me Bruno. I am a third-year student at VKU, pas
 - VKU Best Web Design ハッカソン2023で優勝
 - 2023年英語タレントコンペティションで3位を受賞
 <br>
-## 📫 How to reach me: 
+**My porfolio:** https://trnghuy-bru.vercel.app/
+<br>
+## 📫 How to reach me: ##
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/trnghuy/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/trnghuybru) 
 
