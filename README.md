@@ -11,6 +11,7 @@ GPA: 3.81 (as of now)
 - Third Prize in English Talent Competition 2023
 
 私はフイ、ブリュノと呼んでください。VKUの3年生で、ウェブ開発、モバイル開発、データ分析に興味があります。日本とその文化も好きです。N4資格を取得し、2025年7月のN3合格を目指しています。
+
 **私のハイライト:**
 GPA：3.81（現在までの成績）
 - 韓国のHanwha Life x ChildFund Korea Fintech Excellence学生交換プログラムに参加
