@@ -23,7 +23,7 @@ My name is Huy, but you can call me Bruno. I am a third-year student at VKU, pas
 <br>
 **My porfolio:** https://trnghuy-bru.vercel.app/
 <br>
-## 📫 How to reach me: ##
+### 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/trnghuy/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/trnghuybru) 
 
