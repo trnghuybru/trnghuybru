@@ -22,7 +22,7 @@ My name is Huy, but you can call me Bruno. I am a third-year student at VKU, pas
 - 2023年英語タレントコンペティションで3位を受賞
 
 **My portfolio:**
-  https://trnghuy-bru.vercel.app/
+  https://cut-platinum-d88.notion.site/217c52ca194e80b28cd9c453a5fe48fd
 <br>
 ### 📫 How to reach me: 
 
